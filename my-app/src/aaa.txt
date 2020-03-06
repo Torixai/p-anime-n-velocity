@@ -1,0 +1,168 @@
+デモ枠をアップしました。
+★エリア特集
+ベイエリア特集
+    千葉ベイエリア
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/chiba/M3AR1201/index.html
+    湾岸エリア（東京）
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/tokyo/M3AR1301/index.html
+    勝どき・月島・佃エリア
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/tokyo/M3AR1302/index.html
+    晴海エリア
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/tokyo/M3AR1303/index.html
+    豊洲・東雲エリア
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/tokyo/M3AR1304/index.html
+    お台場・有明エリア
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/tokyo/M3AR1305/index.html
+    芝浦・港南・天王洲エリア
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/tokyo/M3AR1306/index.html
+    横浜ベイエリア
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/kanagawa/M3AR1401/index.html
+    湘南エリア
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/kanagawa/M3AR1402/index.html
+
+その他のエリア特集
+    東葛エリア
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/chiba/M3AR1202/index.html
+    城北エリア
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/tokyo/M3AR1307/index.html
+    城南エリア
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/tokyo/M3AR1308/index.html
+    城西エリア
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/tokyo/M3AR1309/index.html
+    城東エリア
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/tokyo/M3AR1310/index.html
+    武蔵野エリア
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/tokyo/M3AR1311/index.html
+    多摩エリア
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/tokyo/M3AR1312/index.html
+
+関西のエリア特集
+    阪神間エリア
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/hyogo/M3AR2801/index.html
+    北摂エリア
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/osaka/M3AR2701/index.html
+    京阪エリア
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/osaka/M3AR2702/index.html
+    河内エリア
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/osaka/M3AR2703/index.html
+    南大阪エリア
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/area/osaka/M3AR2704/index.html
+
+
+★その他特集
+価格表特集
+    ー
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/kakaku/M0JK0001/index.html
+    hokkaido
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/kakaku/M1JK0001/index.html
+    tohoku
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/kakaku/M2JK0001/index.html
+    kanto
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/kakaku/M3JK0001/index.html
+    koshinetsu
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/kakaku/M4JK0001/index.html
+    tokai
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/kakaku/M5JK0001/index.html
+    kansai
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/kakaku/M6JK0001/index.html
+    chugoku
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/kakaku/M7JK0001/index.html
+    shikoku
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/kakaku/M8JK0001/index.html
+    kyushu
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/kakaku/M9JK0001/index.html
+
+低層マンション特集
+    ー
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/M0JK0002/index.html
+    hokkaido
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/han/M1JK0002/index.html
+    tohoku
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/han/M2JK0002/index.html
+    kanto
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/han/M3JK0002/index.html
+    ibaraki
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/todofuken/M3JK0801/index.html
+    tochigi
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/todofuken/M3JK0901/index.html
+    gumma
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/todofuken/M3JK1001/index.html
+    saitama
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/todofuken/M3JK1101/index.html
+    chiba
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/todofuken/M3JK1201/index.html
+    tokyo
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/todofuken/M3JK1301/index.html
+    kanagawa
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/todofuken/M3JK1401/index.html
+    koshinetsu
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/han/M4JK0002/index.html
+    tokai
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/han/M5JK0002/index.html
+    kansai
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/han/M6JK0002/index.html
+    shiga
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/todofuken/M6JK2501/index.html
+    kyoto
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/todofuken/M6JK2601/index.html
+    osaka
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/todofuken/M6JK2701/index.html
+    hyogo
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/todofuken/M6JK2801/index.html
+    nara
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/todofuken/M6JK2901/index.html
+    wakayama
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/todofuken/M6JK3001/index.html
+    chugoku
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/han/M7JK0002/index.html
+    shikoku
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/han/M8JK0002/index.html
+    kyushu
+        https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/others/teiso/han/M9JK0002/index.html
+
+
+トップページのデモ枠をアップしました。
+
+全国
+    https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/top/zenkoku/index.html
+
+版
+関東
+    https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/top/han/kanto/index.html
+関西
+    https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/top/han/kansai/index.html
+東海
+    https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/top/han/tokai/index.html
+
+都道府県
+埼玉
+    https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/top/todofuken/saitama/index.html
+千葉
+    https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/top/todofuken/chiba/index.html
+東京
+    https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/top/todofuken/tokyo/index.html
+神奈川
+    https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/top/todofuken/kanagawa/index.html
+大阪
+    https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/top/todofuken/oosaka/index.html
+兵庫
+    https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/top/todofuken/hyogo/index.html
+
+茨城
+    https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/top/todofuken/ibaraki/index.html
+栃木
+    https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/top/todofuken/tochigi/index.html
+群馬
+    https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/top/todofuken/gunma/index.html
+京都
+    https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/top/todofuken/kyoto/index.html
+滋賀
+    https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/top/todofuken/shiga/index.html
+奈良
+    https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/top/todofuken/nara/index.html
+和歌山
+    https://wwwtst.k0.suumo.jp/front/edit/demo/ms/FACE-17911/PC/top/todofuken/wakayama/index.html
+
+
+
+
